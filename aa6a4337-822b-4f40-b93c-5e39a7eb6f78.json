@@ -1,0 +1,27 @@
+{
+  "capes": [
+    { "name": "Anime Cape 1", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape1.png" },
+    { "name": "Anime Cape 2", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape2.png" },
+    { "name": "Anime Cape 3", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape3.png" },
+    { "name": "Anime Cape 4", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape4.png" },
+    { "name": "Anime Cape 5", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape5.png" },
+    { "name": "Anime Cape 6", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape6.png" },
+    { "name": "Anime Cape 7", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/anime/cape7.png" },
+
+    { "name": "Cloudy Cape 1", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/cloudy/cape1.png" },
+    { "name": "Cloudy Cape 2", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/cloudy/cape2.png" },
+    { "name": "Cloudy Cape 3", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/cloudy/cape3.png" },
+    { "name": "Cloudy Cape 4", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/cloudy/cape4.png" },
+    { "name": "Cloudy Cape 5", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/cloudy/cape5.png" },
+    { "name": "Cloudy Cape 6", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/cloudy/cape6.png" },
+
+    { "name": "Moody Cape 1", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape1.png" },
+    { "name": "Moody Cape 2", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape2.png" },
+    { "name": "Moody Cape 3", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape3.png" },
+    { "name": "Moody Cape 4", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape4.png" },
+    { "name": "Moody Cape 5", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape5.png" },
+    { "name": "Moody Cape 6", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape6.png" },
+    { "name": "Moody Cape 7", "url": "https://raw.githubusercontent.com/lightningninja50/ares-capes/main/capes/moody/cape7.png" }
+  ],
+  "activeCape": "Anime Cape 1"
+}
